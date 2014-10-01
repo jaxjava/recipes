@@ -11,6 +11,7 @@ categories: main
 - Box Velveeta Shells & Cheese
 - Can of tunafish
 - Can of peas
+- Pico de Gallo
 
 ## Directions
 
